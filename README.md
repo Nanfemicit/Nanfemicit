@@ -12,7 +12,7 @@ I created this space to showcase what I’m learning, how I’m applying it, and
 📊 **Data storytelling** through notebooks & reports and writing on my Medium blog [Medium](medium.com/@Nanfemicit)
 🧪 Interdisciplinary approaches to sustainability and risk
 
-🔄 Current Skill-Building Tracks
+🔄
 
 
 
