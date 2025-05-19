@@ -4,7 +4,7 @@ Welcome to my my learning journey!
 
 I am currentlty an Earth Sciences MSc student with a growing passion for data, sustainability, and spatial analysis. This portfolio tracks my journey into data analysis, environmental modelling, and interdisciplinary research using tools like Python, QGIS, and more.
 
-I created this space to showcase what I’m learning, how I’m applying it, and the kinds of problems I care about contributing solutions for .
+I created this space to showcase what I’m learning, how I’m applying it, and the kinds of problems I care about contributing solutions for.
 
  🛠 Tools & Focus Areas
 - 🐍 **Python** for data analysis & automation  
