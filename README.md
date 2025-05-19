@@ -10,13 +10,14 @@ I created this space to showcase what I’m learning, how I’m applying it, and
 - 🐍 **Python** for data analysis & automation  
 - 🗺️ **QGIS** for spatial tools for environmental mapping  
 - 📊 **Data storytelling** through notebooks & reports and writing on my Medium blog [Medium](medium.com/@Nanfemicit)
-- 🧪 Interdisciplinary approaches to sustainability and risk
+-  Interdisciplinary approaches to sustainability and risk
 
 📚 Learning Path
 - 🐍 [Python Data Fundamentals](https://github.com/Nanfemicit/Python-Data-Fundamentals)  
 
-
-
+🌟 Personal Projects
+- 🧪 [Project Alpha](https://github.com/Nanfemicit/project-alpha)  
+ 
 💡 Let’s Connect
 
 Always open to ideas, collaborations, or feedback!  
