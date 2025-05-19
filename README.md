@@ -6,13 +6,14 @@ I am currentlty an Earth Sciences MSc student with a growing passion for data, s
 
 I created this space to showcase what I’m learning, how I’m applying it, and the kinds of problems I care about contributing solutions for.
 
- 🛠 Tools & Focus Areas
+🛠 Tools & Focus Areas
 - 🐍 **Python** for data analysis & automation  
-- 🗺️ **QGIS** & spatial tools for environmental mapping  
+- 🗺️ **QGIS** for spatial tools for environmental mapping  
 - 📊 **Data storytelling** through notebooks & reports and writing on my Medium blog [Medium](medium.com/@Nanfemicit)
 - 🧪 Interdisciplinary approaches to sustainability and risk
 
-🔄
+📚 Learning Path
+- 🐍 [Python Data Fundamentals](https://github.com/Nanfemicit/Python-Data-Fundamentals)  
 
 
 
