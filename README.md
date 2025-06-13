@@ -1,4 +1,4 @@
-Hello, I am Ruth Femicit Dala 
+Hello, I am Ruth Femicit Dala!
 
 I am currentlty an Earth Sciences MSc student interested in data, sustainability, and spatial analysis. 
 In this space you see how I dabble in my interests and improve the skills needed so I can contriubute to solutions for problems I care about.
