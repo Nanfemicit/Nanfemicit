@@ -1,20 +1,16 @@
-Hello, I am Ruth Femicit Dala and this is my Data & Environmental Science Portfolio
+Hello, I am Ruth Femicit Dala 
 
-Welcome to my my learning journey!
-
-I am currentlty an Earth Sciences MSc student with a growing passion for data, sustainability, and spatial analysis. This portfolio tracks my journey into data analysis, environmental modelling, and interdisciplinary research using tools like Python, QGIS, and more.
-
-I created this space to showcase what I’m learning, how I’m applying it, and the kinds of problems I care about contributing solutions for.
+I am currentlty an Earth Sciences MSc student interested in data, sustainability, and spatial analysis. 
+In this space you see how I dabble in my interests and improve the skills needed so I can contriubute to solutions for problems I care about.
 
 🛠 Tools & Focus Areas
 - 🐍 **Python** for data analysis & automation  
-- 🗺️ **QGIS** for spatial tools for environmental mapping  
+- 🗺️ **QGIS** for environmental mapping  
 - 📊 **Data storytelling** through notebooks & reports and writing on my Medium blog [Medium](medium.com/@Nanfemicit)
--  Interdisciplinary approaches to sustainability and risk
 
 📚 Learning Path
 - 🐍 [Python Data Fundamentals](https://github.com/Nanfemicit/Python-Data-Fundamentals)  
-
+- 
 🌟 Personal Projects
 - 🧪 [Project Alpha](https://github.com/Nanfemicit/project-alpha)  
  
