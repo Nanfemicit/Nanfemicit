@@ -9,7 +9,7 @@ I am currentlty an Earth Sciences MSc student interested in data, sustainability
 
 📚 Learning Path
 - 🐍 [Python Data Fundamentals](https://github.com/Nanfemicit/Python-Data-Fundamentals)  
-- 
+
 🌟 Personal Projects
 - 🧪 [Project Alpha](https://github.com/Nanfemicit/project-alpha)  
  
