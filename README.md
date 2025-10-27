@@ -16,7 +16,7 @@ I am currentlty an Earth Sciences MSc student interested in data, sustainability
 💡 Let’s Connect
 
 Always open to ideas, collaborations, or feedback!  
-Find me on [LinkedIn](https://www.linkedin.com/in/femicitdala/) or email me [Email me](mailto:dala.femicit@gmail.com)
+Find me on [LinkedIn](https://www.linkedin.com/in/femicitdala/) or [Email me](mailto:dala.femicit@gmail.com)
 
 
 **This repo reflects real learning in progress. Every project shows how I’m growing, experimenting, and building toward a career in data & sustainability.*
