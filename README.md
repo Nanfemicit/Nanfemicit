@@ -9,7 +9,7 @@ I am currentlty an Earth Sciences MSc student interested in data, sustainability
 
 📚 Learning Path
 - [Python Data Fundamentals](https://github.com/Nanfemicit/Python-Data-Fundamentals)
-- 
+- [Advanced Spatial Analyses Coursework](https://github.com/Nanfemicit/Advanced-Spatial-Analyses-ASA/)
 
 🌟 Personal Projects
 - [LAGOS FLOOD ABM ](https://github.com/Nanfemicit/project-alpha)  
